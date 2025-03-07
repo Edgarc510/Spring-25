@@ -1,4 +1,4 @@
-package com.cydeo.loosely_coupled;
+package loosely_coupled;
 
 public interface Mentor {
     void createAccount();

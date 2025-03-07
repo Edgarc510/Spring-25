@@ -1,6 +1,6 @@
-package com.cydeo.loosely_coupled;
+package loosely_coupled;
 
-public class CydeoApp {
+public class EacApp {
     public static void main(String[] args) {
 
         FullTimeMentor fullTime = new FullTimeMentor();

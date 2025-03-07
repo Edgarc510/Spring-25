@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd0f7618-27ee-4d8c-8af2-6725a0e2cccc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigAny.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/EacApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/FullTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/PartTimeMentor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,9 +42,33 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "coupling-IoC",
+    "jdk.selected.JAVA_MODULE": "21",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="EacApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eac.bean_annotation.EacApp" />
+      <module name="Spring-01-Core-IoC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eac.bean_annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EacApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
