@@ -1,2 +1,11 @@
-package com.eac.stereotype_annotation;public class Agile {
+package com.eac.stereotype_annotation;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Agile {
+    public void getTeachingHours(){
+        System.out.println("Total teaching hours: 200");
+    }
+
 }

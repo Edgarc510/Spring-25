@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd0f7618-27ee-4d8c-8af2-6725a0e2cccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-00-Coupling/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigAny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/EacApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/FullTimeMentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/PartTimeMentor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/stereotype_annotation/Agile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/stereotype_annotation/ConfigCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/stereotype_annotation/EacAppRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/stereotype_annotation/Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/stereotype_annotation/Selenium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-01-Core-IoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-01-Core-IoC/src/main/java/com/eac/bean_annotation/ConfigApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "coupling-IoC",
     "jdk.selected.JAVA_MODULE": "21",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/ceale/IdeaProjects/Spring-25/Spring-00-Coupling/src/main/java/loosely_coupled",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ceale\IdeaProjects\Spring-25\Spring-00-Coupling\src\main\java\loosely_coupled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EacAppRunner">
     <configuration name="EacApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.eac.bean_annotation.EacApp" />
       <module name="Spring-01-Core-IoC" />
@@ -63,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EacAppRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.eac.stereotype_annotation.EacAppRunner" />
+      <module name="Spring-01-Core-IoC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eac.stereotype_annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EacAppRunner" />
         <item itemvalue="Application.EacApp" />
       </list>
     </recent_temporary>

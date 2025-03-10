@@ -1,7 +1,12 @@
 package com.eac.stereotype_annotation;
 
-public class EacApp {
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+public class EacAppRunner {
     public static void main(String[] args) {
+        ApplicationContext context = new AnnotationConfigApplicationContext(ConfigCourse.class);
+        context.getBean(Java.class).getTeachingHours();
 
     }
 }
