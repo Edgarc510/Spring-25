@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd0f7618-27ee-4d8c-8af2-6725a0e2cccc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/ConfigCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/DealerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring-02-Core-Wiring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/DealerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring-02-Core-Wiring/src/main/java/com/eac/DealerApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

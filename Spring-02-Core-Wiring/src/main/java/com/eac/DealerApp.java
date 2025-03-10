@@ -14,6 +14,8 @@ public class DealerApp {
         System.out.println("c.getMake() = " + c.getMake());
         System.out.println("p.getName() = " + p.getName());
         System.out.println("Person's car " + p.getCar());
+
         System.out.println("Person's car " + p.getCar().getMake());
+        System.out.println(p.getName() + " " + p.getCar().getMake());
     }
 }
