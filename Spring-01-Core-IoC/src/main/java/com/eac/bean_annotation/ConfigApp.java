@@ -10,9 +10,9 @@ public class ConfigApp {
     FullTimeMentor fullTimeMentor(){
         return new FullTimeMentor();
     }
-//    @Bean(name = "p1")
-    @Bean
-    @Primary
+    @Bean(name = "p1")
+//    @Bean
+//    @Primary
     PartTimeMentor partTimeMentor(){
         return new PartTimeMentor();
     }
