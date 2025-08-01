@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>Spring-02-Core-Wiring</artifactId>
+    <artifactId>Spring-03-Core-DependencyInj</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -31,8 +31,6 @@
             <version>1.18.36</version>
             <scope>provided</scope>
         </dependency>
-
-
     </dependencies>
 
 </project>
