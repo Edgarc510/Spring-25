@@ -11,7 +11,7 @@ public class ConfigCar {
         c.setMake("Honda");
         return c;
     }
-//Auto Wire
+//Direct wiring
 //    @Bean
 //    Person person(){
 //        Person p = new Person();
@@ -25,7 +25,7 @@ public class ConfigCar {
     Person person(Car car){
         Person p = new Person();
         p.setName("Edgar");
-        p.setCar(car); //Direct Wiring(Created relationship between objects); calling annotated method from another @Bean annotated method
+        p.setCar(car);
         return p;
     }
 
