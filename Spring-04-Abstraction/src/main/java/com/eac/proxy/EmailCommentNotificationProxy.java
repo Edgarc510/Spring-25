@@ -1,7 +1,11 @@
 package com.eac.proxy;
 
 import com.eac.model.Comment;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
 
+@Component
+@Qualifier("EMAIL")
 public class EmailCommentNotificationProxy implements CommentNotificationProxy{
 
     @Override
