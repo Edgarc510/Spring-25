@@ -1,8 +1,10 @@
 package com.eac.repository;
 
 import com.eac.model.Comment;
+import org.springframework.stereotype.Component;
 
-public class DBCommentRepository {
+@Component
+public class DBCommentRepository implements CommentRepository{
 
     public void storeComment(Comment comment){
         System.out.println("Storing comment: " +comment.getText());
